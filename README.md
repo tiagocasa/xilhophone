@@ -1,16 +1,18 @@
-# xylophone
 
-A music app that plays Xylophone sounds.
+# Xilophone
+O projeto de um aplicativo mobile de xilofone é uma ferramenta interativa e divertida para aprender e tocar música. O aplicativo oferece uma tela de xilofone virtual com teclas sensíveis ao toque. É projetado para usuários de todos os níveis de habilidade, desde iniciantes até músicos profissionais.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Autores
 
-A few resources to get you started if this is your first Flutter project:
+- [@tiagocasa](https://www.github.com/tiagocasa)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Framework
+
+**Flutter**
+
+
+## Screenshots
+
+![App Screenshot](https://i.ibb.co/J7wYpgx/xilo.jpg)
